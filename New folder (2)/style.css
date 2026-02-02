@@ -3,6 +3,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: sans-serif;
+    
+    
 }
 body {
     width : 100%;
@@ -41,8 +43,6 @@ body {
         box-shadow: 0.5rem 1rem 3rem hsla(0, 0%, 0%, 0.3);
         font-weigth: 700;
       
-
-
     }
 
     .hearts {
@@ -83,6 +83,7 @@ body {
             opacity: 0;
         }
     }
+
     h1 {
 
         color:#5a2a3c;
